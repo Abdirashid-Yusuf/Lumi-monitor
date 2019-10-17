@@ -12,3 +12,4 @@ Parts ordered
 ### October 17 2019
 
 [Fritzing file](https://github.com/Abdirashid-Yusuf/Lumi-monitor/tree/master/Electronics)
+![Schematic](https://github.com/Abdirashid-Yusuf/Lumi-monitor/tree/master/Electronics)
