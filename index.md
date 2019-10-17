@@ -13,6 +13,7 @@ Parts ordered
 
 This week is the PCB designed milestone, i am ontrack as per the project as i have been working on it in the last couple of days. this is
 [link](https://github.com/Abdirashid-Yusuf/Lumi-monitor/tree/master/Electronics) to my fritzing file.
+
 Schematic
 ![Schematic](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Images/SCHEMATIC.jpg)
 
