@@ -11,5 +11,5 @@ Parts ordered
 [Parts kit](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Images/Parts%20kit.png).
 ### October 17 2019
 
-[Fritzing file](https://github.com/Abdirashid-Yusuf/Lumi-monitor/tree/master/Electronics)
+[Fritzing file](https://github.com/Abdirashid-Yusuf/Lumi-monitor/tree/master/Electronics).
 ![Schematic](https://github.com/Abdirashid-Yusuf/Lumi-monitor/tree/master/Electronics)
