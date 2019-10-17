@@ -6,10 +6,11 @@ Budget created.
 [budget for the project](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Documentation/Abdirashid's%20Budget.pdf)
 ### October 03 2019
 Parts ordered
-![proof of sensor order](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Images/proofPic.png), 
+![proof of sensor order](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Images/proofPic.png) 
 [Raspberry PI](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Images/RaspberPI.HEIC),
 [Parts kit](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Images/Parts%20kit.png).
 ### October 17 2019
 
-[Fritzing file](https://github.com/Abdirashid-Yusuf/Lumi-monitor/tree/master/Electronics).
+This week is the PCB designed milestone, i am ontrack as per the project. this is
+[link](https://github.com/Abdirashid-Yusuf/Lumi-monitor/tree/master/Electronics) to my fritzing file
 ![Schematic](https://github.com/Abdirashid-Yusuf/Lumi-monitor/tree/master/Electronics)
