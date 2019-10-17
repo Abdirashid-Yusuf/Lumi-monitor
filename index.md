@@ -11,7 +11,7 @@ Raspberry Pi 3
 ![Raspberry PI](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Images/Rapsberry%20PI%203.png)
 
 Parts kit
-![Parts kit](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Images/Parts%20kit.png).
+![Parts kit]](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Images/Tool%20kit.png).
 ### October 17 2019
 
 This week is the PCB designed milestone, i am ontrack as per the project as i have been working on it in the last couple of days. this is
