@@ -25,3 +25,17 @@ PCB design
 
 Breadboard design
 ![BB](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Images/BB.jpg)
+
+### October 31 2019
+
+This week the breadboard milestone is due. we have had the reading week to work on this.
+
+Breadboard
+![Breadboard](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Images/Breadboard.HEIC)
+
+Output
+
+![output](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Images/rpibbd.HEIC)
+
+
+
