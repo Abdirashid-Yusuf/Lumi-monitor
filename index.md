@@ -31,11 +31,11 @@ Breadboard design
 This week the breadboard milestone is due. we have had the reading week to work on this.
 
 Breadboard
-![Breadboard](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Images/Breadboard.HEIC)
+![Breadboard](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Images/bbimage.png)
 
 Output
 
-![output](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Images/rpibbd.HEIC)
+![output](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Images/output.png)
 
 
 
