@@ -38,7 +38,7 @@ Output
 
 ### November 7 2019
 
-This week is is the soldering milestone. i have soldered my PCB.
+This week is is the soldering milestone. I have soldered my PCB.
 
 ![Soldered PCB](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Images/PCBsoldered.png)
 
