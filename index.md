@@ -23,8 +23,7 @@ Schematic
 PCB design
 ![PCB](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Images/PCB.jpg)
 
-Breadboard design
-![BB](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Images/BB.jpg)
+
 
 ### October 31 2019
 
