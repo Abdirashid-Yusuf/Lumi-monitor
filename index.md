@@ -36,5 +36,11 @@ Output
 
 ![output](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Images/output.png)
 
+### November 7 2019
+
+This week is is the soldering milestone. i have soldered my PCB.
+
+![Soldered PCB](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Images/PCBsoldered.png)
+
 
 
