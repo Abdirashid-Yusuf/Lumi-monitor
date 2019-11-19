@@ -7,7 +7,7 @@ Lumi Monitor
 
 ### November 14 2019
  A progress report is due. i have shown the status of my project to the proffesor.
- ![Progress Report](https://render.githubusercontent.com/view/pdf?commit=47ba639cd2974e814d009dc7f3d524768ea598c2&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f416264697261736869642d59757375662f4c756d692d6d6f6e69746f722f343762613633396364323937346538313464303039646337663364353234373638656135393863322f446f63756d656e746174696f6e2f50726f6a6563742532307374617475732532305265706f72742e706466&nwo=Abdirashid-Yusuf%2FLumi-monitor&path=Documentation%2FProject+status+Report.pdf&repository_id=206647527&repository_type=Repository#3cbb5b32-fba6-4884-a6ee-07cbc60aa0e4)
+ ![Progress Report](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Documentation/Project%20status%20Report%20(updated).pdf)
  
  
 ### November 7 2019
