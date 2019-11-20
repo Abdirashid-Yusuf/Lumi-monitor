@@ -14,7 +14,7 @@ Lumi Monitor
 
 This week is is the soldering milestone. I have soldered my PCB.
 
-![Soldered PCB](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Images/PCBsoldered.png)
+[Soldered PCB](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Images/PCBsoldered.png)
 
 
 ### October 31 2019
