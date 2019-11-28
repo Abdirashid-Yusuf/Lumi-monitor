@@ -1,7 +1,8 @@
 Lumi Monitor
 ------------
 
-
+### November 28 2019
+This week is the presentation. Although I am scheduled to present December 5, I have to submit my presentations today. this is the [link](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Documentation/Final%20presentation.pptx) to my powerpoints.  
 
 ### November 21 2019
 This week, the enclosure for the development platform is due. This is the case that i have built for my raspberry pi.
@@ -51,7 +52,7 @@ Raspberry Pi 3
 ![Raspberry PI](https://raw.githubusercontent.com/Abdirashid-Yusuf/Lumi-monitor/master/Images/pi.png)
 
 Parts kit
-![Parts kit](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Images/Tool%20kit.png).
+![Parts kit](https://raw.githubusercontent.com/Abdirashid-Yusuf/Lumi-monitor/master/Images/tk.png).
  
  
  ### September 26 2019
