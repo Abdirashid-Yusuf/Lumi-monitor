@@ -3,6 +3,9 @@ Lumi Monitor
 
 
 
+### November 21 2019
+This week, the enclosure for the development platform is due. This is the case that i have built for my raspberry pi.
+![case](https://raw.githubusercontent.com/Abdirashid-Yusuf/Lumi-monitor/master/Images/PI%20case.png)
 
 
 ### November 14 2019
