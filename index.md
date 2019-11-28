@@ -17,7 +17,7 @@ This week a progress report is due. The professor has seen the [My Report](https
 
 This week is is the soldering milestone. I have soldered my PCB.
 
-[Soldered PCB](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Images/PCBsoldered.png)
+[Soldered PCB](https://raw.githubusercontent.com/Abdirashid-Yusuf/Lumi-monitor/master/Images/PCBsoldered.png)
 
 
 ### October 31 2019
