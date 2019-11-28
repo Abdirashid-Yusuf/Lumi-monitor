@@ -2,7 +2,7 @@ Lumi Monitor
 ------------
 
 ### November 28 2019
-This week is the presentations. Although I am scheduled to present December 5, I have to submit my presentations today. this is the [link](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Documentation/Final%20presentation%201.pptx)to my powerpoints.  
+This week is the presentations. Although I am scheduled to present December 5, I have to submit my presentations today. this is the [link](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Documentation/Final%20presentation%201.pptx) to my powerpoints.  
 
 ### November 21 2019
 This week, the enclosure for the development platform is due. This is the case that i have built for my raspberry pi.
