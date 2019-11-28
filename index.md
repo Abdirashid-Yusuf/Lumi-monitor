@@ -10,8 +10,7 @@ This week, the enclosure for the development platform is due. This is the case t
 
 
 ### November 14 2019
- A progress report is due. i have shown the status of my project to the proffesor.
- ![Progress Report](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Documentation/Project%20status%20Report%20(updated).pdf)
+This week a progress report is due. The professor has seen the [My Report](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Documentation/Project%20status%20Report%20(updated).pdf).
  
  
 ### November 7 2019
