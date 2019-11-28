@@ -48,7 +48,7 @@ PCB design
 Parts ordered
 ![proof of sensor order](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Images/proofPic.png) 
 Raspberry Pi 3
-![Raspberry PI](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Images/Rapsberry%20PI%203.png)
+![Raspberry PI](https://raw.githubusercontent.com/Abdirashid-Yusuf/Lumi-monitor/master/Images/pi.png)
 
 Parts kit
 ![Parts kit](https://github.com/Abdirashid-Yusuf/Lumi-monitor/blob/master/Images/Tool%20kit.png).
