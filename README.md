@@ -17,4 +17,4 @@ These are the parts of the project. Make sure to have them before you can begin 
 
 
 
-#(Abdirashid-yusuf.github.io/lumiMonitor)
+[](Abdirashid-yusuf.github.io/lumiMonitor)
