@@ -1,6 +1,6 @@
 # Lumi-monitor
 
-the goal is to create a system that mointors the baby while it is sleeping and also senses the condition of the room.  
+the goal is to create a system that mointors the baby while it is sleeping and also record the conditions of the room to ensure the baby gets comfortable sleep. 
 
 ### Build instruction for Lumi Monitor
 
