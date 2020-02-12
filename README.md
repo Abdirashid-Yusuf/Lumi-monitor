@@ -18,3 +18,8 @@ These are the parts of the project. Make sure to have them before you can begin 
 
 
 [](Abdirashid-yusuf.github.io/lumiMonitor)
+ 
+ the script to record 
+#!/bin/bash
+read -p "Please enter the file name: " filename
+arecord -D plughw:1 -c1 -r 48000 -f S32_LE -t wav -V mono -v $filname
